@@ -6,7 +6,7 @@
 Remake of an old chess calculator I made back in 1998
 """
 from tkinter import *
-import sqlite3
+import wrapper_sqlite3
 
 
 ### function for rebuilding the database to zero ##############################
