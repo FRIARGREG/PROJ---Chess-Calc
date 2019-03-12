@@ -1,3 +1,2 @@
-__init__*
-*.db
 *.pyc
+data\*
